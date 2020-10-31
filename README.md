@@ -1,2 +1,3 @@
-# school
-Programs for school
+# School
+
+Programs for school projects in basic java 
